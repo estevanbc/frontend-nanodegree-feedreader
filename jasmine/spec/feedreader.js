@@ -101,8 +101,7 @@ $(function () {
     /* Test suite named "New Feed Selection" */
     describe('New Feed Selection', function () {
 
-        /*
-            Wrapper the loadFeed function call to return a promise
+        /* Wrapper the loadFeed function call to return a promise
         */
         function loadFeedPromisefied(id) {
             return new Promise((resolve) => {
