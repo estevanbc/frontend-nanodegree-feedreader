@@ -4,7 +4,7 @@ In this project you are given a web-based application that reads RSS feeds. The 
 
 # Run the application
 
-To run the application open the **index.html** file on a browser
+To run the application and see the tests results, open the **index.html** file on a browser
 
 # Contributing
 
